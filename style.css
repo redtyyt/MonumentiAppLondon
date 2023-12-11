@@ -1,0 +1,40 @@
+/* Base Style */
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+}
+
+h1 {
+    text-decoration: none;
+    font: x-large;
+    color: white;
+}
+
+.normaltext {
+    color: darkred;
+    font-size: initial;
+}
+
+
+/* Header */
+
+.header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 30px;
+    display: flex;
+    background: transparent;
+}
+
+.header1text {
+    position: center;
+    text-align: center;
+    padding-left: 550px;
+}
+
+.inside {
+    padding: 229px 4px 205px 0px;
+}
