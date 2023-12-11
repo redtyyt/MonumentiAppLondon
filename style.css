@@ -11,6 +11,12 @@ h1 {
     color: white;
 }
 
+h2 {
+    text-decoration: none;
+    font: 300;
+    color: green;
+}
+
 .normaltext {
     color: darkred;
     font-size: initial;
@@ -37,4 +43,8 @@ h1 {
 
 .inside {
     padding: 229px 4px 205px 0px;
+}
+
+.header2text {
+    padding-left: 550px;
 }
