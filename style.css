@@ -48,3 +48,11 @@ h2 {
 .header2text {
     padding-left: 550px;
 }
+
+/* Descrizione */
+
+.descr {
+    background-color: darkslategray;
+    padding: 10px 10px 2px 10px;
+    height: 300px;
+}
