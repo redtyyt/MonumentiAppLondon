@@ -17,6 +17,12 @@ h2 {
     color: green;
 }
 
+h3 {
+    text-decoration: none;
+    font: 300;
+    color: blue;
+}
+
 .normaltext {
     color: darkred;
     font-size: initial;
@@ -55,4 +61,8 @@ h2 {
     background-color: darkslategray;
     padding: 10px 10px 2px 10px;
     height: 300px;
+}
+
+.download {
+
 }
